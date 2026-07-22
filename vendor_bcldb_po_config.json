@@ -1,0 +1,59 @@
+{
+  "username": "beam1",
+  "password": "khDc7ZFx",
+
+  "login_page_url": "https://vendor.bcldb.com/vendorsite/index.action",
+  "login_submit_url": "https://vendor.bcldb.com/vendorsite/j_security_check",
+
+  "sales_info_url": "https://vendor.bcldb.com/vendorsite/ssds/sales_info.jsp",
+  "report_page_url": "https://vendor.bcldb.com/vendorsite/ssds/productActivityReportView.action?reportName=26_Product_Activity_",
+
+  "report_name": "Purchase Order Report - Past 90 days",
+  "download_button_text": "Excel 2007",
+
+  "agent_numbers": [],
+
+  "output_dir": "C:\\Users\\DLI\\Beam Suntory Inc\\Canadian S&OP Collaboration Hub - Documents\\Daily Reports\\Daily Inventory - All Boards\\1. BC\\BCLDB Inventory Analysis\\LDB PO Status",
+  "filename_pattern": "PO Status - {yyyy}-{mm}-{dd}.xlsx",
+
+  "skip_weekends": true,
+  "http_timeout_seconds": 120,
+
+  "debug": true,
+  "debug_dir": "debug_bcldb_po",
+
+  "agent_field_names": [
+    "supplierAgentNumbers",
+    "supplierAgentNumber",
+    "supplierAgentNbr",
+    "supplierAgentNo",
+    "agentNumbers",
+    "agentNumber",
+    "supplierNumbers",
+    "supplierNumber",
+    "vendorNumbers",
+    "vendorNumber"
+  ],
+
+  "format_field_names": [
+    "format",
+    "reportFormat",
+    "fileFormat",
+    "downloadFormat",
+    "outputFormat",
+    "exportFormat",
+    "exportType",
+    "fileType"
+  ],
+
+  "excel_format_values_to_try": [
+    "EXCEL2007",
+    "Excel2007",
+    "Excel 2007",
+    "XLSX",
+    "xlsx",
+    "2007"
+  ],
+
+  "form_field_overrides": {}
+}

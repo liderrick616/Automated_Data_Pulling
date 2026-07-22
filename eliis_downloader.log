@@ -1,0 +1,964 @@
+2026-05-13 10:27:54,895 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:28:07,683 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 10:28:08,654 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 10:28:08,656 | INFO | Downloading get_your_items
+2026-05-13 10:28:08,656 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 10:28:09,417 | INFO | Saved: downloads\2026-05-13\eliis_get_your_items_2026-05-13.zip
+2026-05-13 10:28:09,427 | INFO | Size: 0.22 MB
+2026-05-13 10:28:09,427 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 10:28:09,428 | INFO | Downloading get_common_file
+2026-05-13 10:28:09,428 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 10:28:11,967 | INFO | Saved: downloads\2026-05-13\eliis_common_file_2026-05-13.zip
+2026-05-13 10:28:11,967 | INFO | Size: 1.02 MB
+2026-05-13 10:28:11,968 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 10:38:40,321 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:39:03,370 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 10:39:04,228 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 10:39:04,230 | INFO | Downloading get_your_items
+2026-05-13 10:39:04,230 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 10:39:05,085 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 10:39:05,085 | INFO | Size: 0.22 MB
+2026-05-13 10:39:05,086 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 10:39:05,086 | INFO | Downloading get_common_file
+2026-05-13 10:39:05,087 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 10:39:07,416 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 10:39:07,417 | INFO | Size: 1.02 MB
+2026-05-13 10:39:07,420 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 10:47:37,514 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:52:24,341 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:52:24,625 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 10:52:25,460 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 10:52:25,462 | INFO | Downloading get_your_items
+2026-05-13 10:52:25,462 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 10:52:26,290 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 10:52:26,290 | INFO | Size: 0.22 MB
+2026-05-13 10:52:26,291 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 10:52:26,292 | INFO | Downloading get_common_file
+2026-05-13 10:52:26,292 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 10:52:28,857 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 10:52:28,858 | INFO | Size: 1.02 MB
+2026-05-13 10:52:28,858 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 10:54:07,946 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:54:08,273 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 10:54:09,212 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 10:54:09,213 | INFO | Downloading get_your_items
+2026-05-13 10:54:09,213 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 10:54:09,908 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 10:54:09,908 | INFO | Size: 0.22 MB
+2026-05-13 10:54:09,909 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 10:54:09,909 | INFO | Downloading get_common_file
+2026-05-13 10:54:09,910 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 10:54:11,872 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 10:54:11,872 | INFO | Size: 1.02 MB
+2026-05-13 10:54:11,872 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 10:55:51,705 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 10:55:52,012 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 10:55:52,907 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 10:55:52,909 | INFO | Downloading get_your_items
+2026-05-13 10:55:52,909 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 10:55:53,834 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 10:55:53,834 | INFO | Size: 0.22 MB
+2026-05-13 10:55:53,835 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 10:55:53,835 | INFO | Downloading get_common_file
+2026-05-13 10:55:53,835 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 10:55:56,570 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 10:55:56,571 | INFO | Size: 1.02 MB
+2026-05-13 10:55:56,571 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 11:00:02,290 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 11:00:02,584 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 11:00:03,458 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 11:00:03,460 | INFO | Downloading get_your_items
+2026-05-13 11:00:03,461 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 11:00:04,178 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 11:00:04,178 | INFO | Size: 0.22 MB
+2026-05-13 11:00:04,178 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 11:00:04,179 | INFO | Downloading get_common_file
+2026-05-13 11:00:04,179 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 11:00:06,967 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 11:00:06,968 | INFO | Size: 1.02 MB
+2026-05-13 11:00:06,968 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 12:07:46,918 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 12:07:47,215 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 12:07:48,068 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 12:07:48,069 | INFO | Downloading get_your_items_raw_data
+2026-05-13 12:07:48,070 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 12:07:48,867 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads_1.zip
+2026-05-13 12:07:48,867 | INFO | Size: 0.22 MB
+2026-05-13 12:07:48,868 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 12:07:48,868 | INFO | Downloading get_common_file_raw_data
+2026-05-13 12:07:48,869 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 12:07:51,796 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1)_1.zip
+2026-05-13 12:07:51,796 | INFO | Size: 1.02 MB
+2026-05-13 12:07:51,797 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:14:39,696 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:14:40,047 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:14:40,945 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:14:40,949 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:14:40,949 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:14:41,923 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads_1.zip
+2026-05-13 13:14:41,924 | INFO | Size: 0.22 MB
+2026-05-13 13:14:41,924 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:14:41,925 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:14:41,926 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:14:44,386 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1)_1.zip
+2026-05-13 13:14:44,386 | INFO | Size: 1.02 MB
+2026-05-13 13:14:44,386 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:15:46,359 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:15:46,642 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:15:47,514 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:15:47,517 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:15:47,517 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:15:48,451 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads_1.zip
+2026-05-13 13:15:48,451 | INFO | Size: 0.22 MB
+2026-05-13 13:15:48,451 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:15:48,452 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:15:48,452 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:15:50,824 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1)_1.zip
+2026-05-13 13:15:50,825 | INFO | Size: 1.02 MB
+2026-05-13 13:15:50,825 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:16:40,477 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:16:40,789 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:16:41,683 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:16:41,685 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:16:41,685 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:16:42,563 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads_1.zip
+2026-05-13 13:16:42,564 | INFO | Size: 0.22 MB
+2026-05-13 13:16:42,564 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:16:42,564 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:16:42,565 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:16:45,113 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1)_1.zip
+2026-05-13 13:16:45,113 | INFO | Size: 1.02 MB
+2026-05-13 13:16:45,113 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:25:09,890 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:25:10,204 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:25:11,097 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:25:11,099 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:25:11,099 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:25:11,865 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:25:11,866 | INFO | Size: 0.22 MB
+2026-05-13 13:25:11,866 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:25:11,867 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:25:11,867 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:25:11,910 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:25:11,912 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:25:11,912 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:25:14,176 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:25:14,177 | INFO | Size: 1.02 MB
+2026-05-13 13:25:14,177 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:25:14,177 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:25:14,177 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:25:14,198 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:31:14,816 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:31:15,111 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:31:15,984 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:31:15,985 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:31:15,986 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:31:16,935 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:31:16,935 | INFO | Size: 0.22 MB
+2026-05-13 13:31:16,935 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:31:16,936 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:31:16,936 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:31:16,954 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:31:16,954 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:31:16,954 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:31:19,510 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:31:19,510 | INFO | Size: 1.02 MB
+2026-05-13 13:31:19,510 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:31:19,512 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:31:19,512 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:31:19,530 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:32:05,515 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:32:05,795 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:32:06,686 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:32:06,688 | INFO | Downloading get_your_items_raw_data
+2026-05-13 13:32:06,688 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:32:07,613 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:32:07,613 | INFO | Size: 0.22 MB
+2026-05-13 13:32:07,613 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:32:07,614 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:32:07,614 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:32:07,632 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-13 13:32:07,632 | INFO | Downloading get_common_file_raw_data
+2026-05-13 13:32:07,632 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:32:10,113 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:32:10,113 | INFO | Size: 1.02 MB
+2026-05-13 13:32:10,113 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 13:32:10,114 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:32:10,114 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-13 13:32:10,133 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-13 13:33:45,197 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 13:33:45,511 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 13:33:46,313 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 13:33:46,314 | INFO | Downloading get_your_items
+2026-05-13 13:33:46,314 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 13:33:47,171 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 13:33:47,171 | INFO | Size: 0.22 MB
+2026-05-13 13:33:47,171 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 13:33:47,172 | INFO | Downloading get_common_file
+2026-05-13 13:33:47,172 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 13:33:49,753 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 13:33:49,753 | INFO | Size: 1.02 MB
+2026-05-13 13:33:49,753 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 15:25:17,591 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 15:25:17,954 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 15:25:18,975 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 15:25:18,978 | INFO | Downloading get_your_items
+2026-05-13 15:25:18,979 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 15:25:19,812 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 15:25:19,812 | INFO | Size: 0.22 MB
+2026-05-13 15:25:19,813 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 15:25:19,814 | INFO | Downloading get_common_file
+2026-05-13 15:25:19,815 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 15:25:22,107 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 15:25:22,107 | INFO | Size: 1.02 MB
+2026-05-13 15:25:22,108 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-13 15:26:04,592 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-13 15:26:04,961 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-13 15:26:05,928 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-13 15:26:05,930 | INFO | Downloading get_your_items
+2026-05-13 15:26:05,930 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-13 15:26:06,678 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05132026.zip
+2026-05-13 15:26:06,678 | INFO | Size: 0.22 MB
+2026-05-13 15:26:06,678 | INFO | SHA256: ac1bab16b31926d704cf5ca5295e1ba188a01779dc52eb07f07a2868658a74fb
+2026-05-13 15:26:06,679 | INFO | Downloading get_common_file
+2026-05-13 15:26:06,679 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-13 15:26:09,043 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-13-2026.zip
+2026-05-13 15:26:09,043 | INFO | Size: 1.02 MB
+2026-05-13 15:26:09,044 | INFO | SHA256: 2d0dafc797bd5a81c681602e07426ccf3e2f33c2385bd5385b59712a803b4c3f
+2026-05-14 11:00:02,341 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-14 11:00:02,670 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-14 11:00:03,528 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-14 11:00:03,529 | INFO | Downloading get_your_items
+2026-05-14 11:00:03,529 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-14 11:00:04,416 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05142026.zip
+2026-05-14 11:00:04,416 | INFO | Size: 0.22 MB
+2026-05-14 11:00:04,424 | INFO | SHA256: e0ce8eb494f3a60f8a085c82b77c14071b41051dabbdf5dbf645d5ed489035a3
+2026-05-14 11:00:04,425 | INFO | Downloading get_common_file
+2026-05-14 11:00:04,425 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-14 11:00:07,062 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-14-2026.zip
+2026-05-14 11:00:07,062 | INFO | Size: 1.02 MB
+2026-05-14 11:00:07,062 | INFO | SHA256: 3c68ba75c3429d9c24433d9652536b6b809632628705cdfe005caaf976d1268c
+2026-05-15 11:33:48,896 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-15 11:33:49,173 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-15 11:33:50,151 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-15 11:33:50,152 | INFO | Downloading get_your_items
+2026-05-15 11:33:50,152 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-15 11:33:51,212 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05152026.zip
+2026-05-15 11:33:51,213 | INFO | Size: 0.22 MB
+2026-05-15 11:33:51,213 | INFO | SHA256: 466e2b98a1ad7da70e8c224a09b046453cca4bc1d17bbd7a8cae2d3fd885abc8
+2026-05-15 11:33:51,213 | INFO | Downloading get_common_file
+2026-05-15 11:33:51,213 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-15 11:33:54,864 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-15-2026.zip
+2026-05-15 11:33:54,864 | INFO | Size: 1.03 MB
+2026-05-15 11:33:54,865 | INFO | SHA256: f968bd9da0c951da206696a69159a8ff144856b5542a7750e2c7d5ddbdb786aa
+2026-05-19 11:00:02,507 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-19 11:00:02,874 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-19 11:00:03,756 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-19 11:00:03,757 | INFO | Downloading get_your_items
+2026-05-19 11:00:03,757 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-19 11:00:04,537 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05192026.zip
+2026-05-19 11:00:04,537 | INFO | Size: 0.22 MB
+2026-05-19 11:00:04,537 | INFO | SHA256: 1fc4ce4d39361d0e07936f7d748fd76aa5e75f0ba777c1e43fb6dd93181d361d
+2026-05-19 11:00:04,538 | INFO | Downloading get_common_file
+2026-05-19 11:00:04,538 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-19 11:00:06,961 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-19-2026.zip
+2026-05-19 11:00:06,961 | INFO | Size: 1.03 MB
+2026-05-19 11:00:06,961 | INFO | SHA256: 5ab4fe7f705f93b5d462f4f66dcec971c1e19e84d417027fba628cfe4a78207b
+2026-05-20 11:24:48,053 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-20 11:24:48,063 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-20 11:24:48,365 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-20 11:24:49,243 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-20 11:24:49,248 | INFO | Downloading get_your_items_raw_data
+2026-05-20 11:24:49,248 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-20 11:24:49,374 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-20 11:24:50,117 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-20 11:24:50,117 | INFO | Size: 0.22 MB
+2026-05-20 11:24:50,118 | INFO | SHA256: 84b8dad1aa8275a4e872c60c1fc72cc66017fbb2a962e57de9bc6ddddecf0a65
+2026-05-20 11:24:50,121 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-20 11:24:50,121 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-20 11:24:50,201 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-20 11:24:50,204 | INFO | Downloading get_common_file_raw_data
+2026-05-20 11:24:50,204 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-20 11:24:50,228 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-20 11:24:50,231 | INFO | Downloading get_your_items
+2026-05-20 11:24:50,232 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-20 11:24:50,964 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05202026.zip
+2026-05-20 11:24:50,964 | INFO | Size: 0.22 MB
+2026-05-20 11:24:50,964 | INFO | SHA256: 84b8dad1aa8275a4e872c60c1fc72cc66017fbb2a962e57de9bc6ddddecf0a65
+2026-05-20 11:24:50,965 | INFO | Downloading get_common_file
+2026-05-20 11:24:50,965 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-20 11:24:53,024 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-20 11:24:53,024 | INFO | Size: 1.03 MB
+2026-05-20 11:24:53,024 | INFO | SHA256: 4e15ffeb2344b8d60f79e9f86b104a44f95e58ea306644dac3fdad6f19bdffbf
+2026-05-20 11:24:53,025 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-20 11:24:53,025 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-20 11:24:53,055 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-20 11:24:53,445 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-20-2026.zip
+2026-05-20 11:24:53,446 | INFO | Size: 1.03 MB
+2026-05-20 11:24:53,446 | INFO | SHA256: 4e15ffeb2344b8d60f79e9f86b104a44f95e58ea306644dac3fdad6f19bdffbf
+2026-05-21 11:00:02,017 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-21 11:00:02,459 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-21 11:00:03,464 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-21 11:00:03,465 | INFO | Downloading get_your_items
+2026-05-21 11:00:03,465 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-21 11:00:04,274 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05212026.zip
+2026-05-21 11:00:04,275 | INFO | Size: 0.22 MB
+2026-05-21 11:00:04,275 | INFO | SHA256: 42f1ee3a36be6d9a31720ba6641c32684384e189a908661470f9a100a3d7ba93
+2026-05-21 11:00:04,275 | INFO | Downloading get_common_file
+2026-05-21 11:00:04,275 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-21 11:00:06,934 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-21-2026.zip
+2026-05-21 11:00:06,934 | INFO | Size: 1.03 MB
+2026-05-21 11:00:06,935 | INFO | SHA256: 95f0df4141bcad89240d94d48f5fb65b93bfb07019722ca7de17d6f46b745503
+2026-05-22 11:00:02,289 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-22 11:00:02,537 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-22 11:00:03,402 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-22 11:00:03,403 | INFO | Downloading get_your_items
+2026-05-22 11:00:03,403 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-22 11:00:04,101 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05222026.zip
+2026-05-22 11:00:04,101 | INFO | Size: 0.23 MB
+2026-05-22 11:00:04,102 | INFO | SHA256: 244ec7ae1f07399b12fbf4a0c2fec603d006e5c9bab791a290eac723fd2178c7
+2026-05-22 11:00:04,103 | INFO | Downloading get_common_file
+2026-05-22 11:00:04,103 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-22 11:00:06,604 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-22-2026.zip
+2026-05-22 11:00:06,604 | INFO | Size: 1.03 MB
+2026-05-22 11:00:06,604 | INFO | SHA256: 2815f6727cade02b96430dc0da767c3dbd8fb5d50a7d53ea331cabb9c028df65
+2026-05-25 13:51:48,036 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-25 13:51:48,651 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-25 13:51:50,092 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-25 13:51:50,093 | INFO | Downloading get_your_items
+2026-05-25 13:51:50,094 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-25 13:51:51,398 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05252026.zip
+2026-05-25 13:51:51,399 | INFO | Size: 0.23 MB
+2026-05-25 13:51:51,399 | INFO | SHA256: 244ec7ae1f07399b12fbf4a0c2fec603d006e5c9bab791a290eac723fd2178c7
+2026-05-25 13:51:51,399 | INFO | Downloading get_common_file
+2026-05-25 13:51:51,399 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-25 13:51:53,228 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-25-2026.zip
+2026-05-25 13:51:53,228 | INFO | Size: 1.03 MB
+2026-05-25 13:51:53,228 | INFO | SHA256: 2815f6727cade02b96430dc0da767c3dbd8fb5d50a7d53ea331cabb9c028df65
+2026-05-26 11:00:01,700 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-26 11:00:02,069 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-26 11:00:02,942 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-26 11:00:02,943 | INFO | Downloading get_your_items
+2026-05-26 11:00:02,943 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-26 11:00:03,791 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05262026.zip
+2026-05-26 11:00:03,791 | INFO | Size: 0.23 MB
+2026-05-26 11:00:03,791 | INFO | SHA256: 244ec7ae1f07399b12fbf4a0c2fec603d006e5c9bab791a290eac723fd2178c7
+2026-05-26 11:00:03,792 | INFO | Downloading get_common_file
+2026-05-26 11:00:03,792 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-26 11:00:06,297 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-26-2026.zip
+2026-05-26 11:00:06,297 | INFO | Size: 1.03 MB
+2026-05-26 11:00:06,297 | INFO | SHA256: 2815f6727cade02b96430dc0da767c3dbd8fb5d50a7d53ea331cabb9c028df65
+2026-05-27 11:00:02,698 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-27 11:00:03,010 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-27 11:00:03,757 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-27 11:00:03,758 | INFO | Downloading get_your_items
+2026-05-27 11:00:03,758 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-27 11:00:04,254 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05272026.zip
+2026-05-27 11:00:04,255 | INFO | Size: 0.23 MB
+2026-05-27 11:00:04,255 | INFO | SHA256: 2a7226c797b5266b705880177209aa1048b7ac1650ac6c958a8cc546b66a2c08
+2026-05-27 11:00:04,256 | INFO | Downloading get_common_file
+2026-05-27 11:00:04,256 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-27 11:00:05,086 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-27-2026.zip
+2026-05-27 11:00:05,086 | INFO | Size: 1.04 MB
+2026-05-27 11:00:05,087 | INFO | SHA256: 528e141a30f8e11cf937fd4cfad87023c7c2923ab5d7c8687467362aee0add44
+2026-05-27 11:01:02,761 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-27 11:01:03,045 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-27 11:01:03,804 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-27 11:01:03,813 | INFO | Downloading get_your_items_raw_data
+2026-05-27 11:01:03,814 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-27 11:01:04,198 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-27 11:01:04,198 | INFO | Size: 0.23 MB
+2026-05-27 11:01:04,199 | INFO | SHA256: 2a7226c797b5266b705880177209aa1048b7ac1650ac6c958a8cc546b66a2c08
+2026-05-27 11:01:04,199 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-27 11:01:04,199 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-27 11:01:04,224 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-05-27 11:01:04,225 | INFO | Downloading get_common_file_raw_data
+2026-05-27 11:01:04,225 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-27 11:01:04,861 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-27 11:01:04,861 | INFO | Size: 1.04 MB
+2026-05-27 11:01:04,861 | INFO | SHA256: 528e141a30f8e11cf937fd4cfad87023c7c2923ab5d7c8687467362aee0add44
+2026-05-27 11:01:04,861 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-27 11:01:04,861 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-05-27 11:01:04,889 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-05-28 11:00:03,893 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-05-28 11:00:04,297 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-05-28 11:00:05,136 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-05-28 11:00:05,141 | INFO | Downloading get_your_items
+2026-05-28 11:00:05,141 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-05-28 11:00:05,661 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL05282026.zip
+2026-05-28 11:00:05,662 | INFO | Size: 0.23 MB
+2026-05-28 11:00:05,671 | INFO | SHA256: 402a39085ca9ad71e2f245ff6ad8f1af8f9f6a185bf1c54f30af8986f6de32fe
+2026-05-28 11:00:05,673 | INFO | Downloading get_common_file
+2026-05-28 11:00:05,673 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-05-28 11:00:08,639 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-05-28-2026.zip
+2026-05-28 11:00:08,639 | INFO | Size: 1.04 MB
+2026-05-28 11:00:08,639 | INFO | SHA256: 531f2267367e880f2a6e41c2b67114aeaf287448884f3947b356170334326151
+2026-05-29 12:27:29,427 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-01 12:20:12,385 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-01 12:20:12,965 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-01 12:20:14,147 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-01 12:20:14,148 | INFO | Downloading get_your_items
+2026-06-01 12:20:14,148 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-01 12:20:14,766 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06012026.zip
+2026-06-01 12:20:14,766 | INFO | Size: 0.23 MB
+2026-06-01 12:20:14,767 | INFO | SHA256: 156239f8cdf2a92f0c09653d5a4f95c43a038d0cf3ce3b3323902ecc209f767a
+2026-06-01 12:20:14,768 | INFO | Downloading get_common_file
+2026-06-01 12:20:14,768 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-01 12:20:17,933 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-01-2026.zip
+2026-06-01 12:20:17,933 | INFO | Size: 1.05 MB
+2026-06-01 12:20:17,933 | INFO | SHA256: 45919585636d9048b9cb749d06e5711b283c0a67efeda8bfa8ebe44d8d14d14e
+2026-06-02 11:00:02,350 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-02 11:00:02,799 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-02 11:00:03,783 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-02 11:00:03,792 | INFO | Downloading get_your_items
+2026-06-02 11:00:03,793 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-02 11:00:04,384 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06022026.zip
+2026-06-02 11:00:04,384 | INFO | Size: 0.22 MB
+2026-06-02 11:00:04,386 | INFO | SHA256: 3ba1ac1eb8e86d22377aa6d57562f9ff3e2a06a94c06adfc6d2120a79882eb0c
+2026-06-02 11:00:04,386 | INFO | Downloading get_common_file
+2026-06-02 11:00:04,386 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-02 11:00:05,341 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-02-2026.zip
+2026-06-02 11:00:05,342 | INFO | Size: 1.00 MB
+2026-06-02 11:00:05,342 | INFO | SHA256: 603910b465c5a9033a07fc9574b91faf595d8413009b8d3fa008f3765051b516
+2026-06-03 11:00:02,160 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-03 11:00:02,554 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-03 11:00:03,408 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-03 11:00:03,411 | INFO | Downloading get_your_items
+2026-06-03 11:00:03,412 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-03 11:00:04,125 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06032026.zip
+2026-06-03 11:00:04,126 | INFO | Size: 0.22 MB
+2026-06-03 11:00:04,134 | INFO | SHA256: 744c0ebc63d07d306aee3e2232e6fb501f2140b83de55b7c52e22f0fe608da2e
+2026-06-03 11:00:04,135 | INFO | Downloading get_common_file
+2026-06-03 11:00:04,136 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-03 11:00:06,195 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-03-2026.zip
+2026-06-03 11:00:06,195 | INFO | Size: 1.01 MB
+2026-06-03 11:00:06,195 | INFO | SHA256: d68d6ab2ca5e36724c8dc2f6aac093b627c2faf42e782b9e4e9171176b5d0e51
+2026-06-03 11:01:02,864 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-03 11:01:03,173 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-03 11:01:04,181 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-03 11:01:04,182 | INFO | Downloading get_your_items_raw_data
+2026-06-03 11:01:04,182 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-03 11:01:04,995 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-03 11:01:04,996 | INFO | Size: 0.22 MB
+2026-06-03 11:01:04,996 | INFO | SHA256: 744c0ebc63d07d306aee3e2232e6fb501f2140b83de55b7c52e22f0fe608da2e
+2026-06-03 11:01:04,997 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-03 11:01:04,998 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-03 11:01:05,018 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-03 11:01:05,019 | INFO | Downloading get_common_file_raw_data
+2026-06-03 11:01:05,019 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-03 11:01:05,799 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-03 11:01:05,799 | INFO | Size: 1.01 MB
+2026-06-03 11:01:05,799 | INFO | SHA256: d68d6ab2ca5e36724c8dc2f6aac093b627c2faf42e782b9e4e9171176b5d0e51
+2026-06-03 11:01:05,801 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-03 11:01:05,801 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-03 11:01:05,835 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-04 11:00:03,173 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-04 11:00:03,456 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-04 11:00:04,254 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-04 11:00:04,256 | INFO | Downloading get_your_items
+2026-06-04 11:00:04,256 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-04 11:00:05,062 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06042026.zip
+2026-06-04 11:00:05,062 | INFO | Size: 0.22 MB
+2026-06-04 11:00:05,063 | INFO | SHA256: 803c86dd2313a3f68d9c8ecf3c409800e9d8e4b363e4da2e9ad4ac3741f0601a
+2026-06-04 11:00:05,063 | INFO | Downloading get_common_file
+2026-06-04 11:00:05,063 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-04 11:00:07,557 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-04-2026.zip
+2026-06-04 11:00:07,557 | INFO | Size: 1.01 MB
+2026-06-04 11:00:07,558 | INFO | SHA256: 1e00e20a77e7fe8ebc4daec5a972f775f6c5cfde115a9e03937edc15e5c1973e
+2026-06-08 09:16:29,601 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-08 09:16:30,691 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-08 09:16:31,559 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-08 09:16:31,561 | INFO | Downloading get_your_items
+2026-06-08 09:16:31,562 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-08 09:16:32,142 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06082026.zip
+2026-06-08 09:16:32,143 | INFO | Size: 0.22 MB
+2026-06-08 09:16:32,190 | INFO | SHA256: dfc36e0f50df4291f649dcf91a56bc6211515fea3af96c25a2af3463e6ed165a
+2026-06-08 09:16:32,415 | INFO | Downloading get_common_file
+2026-06-08 09:16:32,415 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-08 09:16:33,496 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-08-2026.zip
+2026-06-08 09:16:33,496 | INFO | Size: 1.01 MB
+2026-06-08 09:16:33,498 | INFO | SHA256: 1ab5bec906fd0ff2af2708334856f5fc96397a38cef859d4d12986d09cddbdfc
+2026-06-08 11:00:01,694 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-08 11:00:02,084 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-08 11:00:02,938 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-08 11:00:02,941 | INFO | Downloading get_your_items
+2026-06-08 11:00:02,941 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-08 11:00:03,378 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06082026.zip
+2026-06-08 11:00:03,378 | INFO | Size: 0.22 MB
+2026-06-08 11:00:03,378 | INFO | SHA256: dfc36e0f50df4291f649dcf91a56bc6211515fea3af96c25a2af3463e6ed165a
+2026-06-08 11:00:03,379 | INFO | Downloading get_common_file
+2026-06-08 11:00:03,379 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-08 11:00:04,460 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-08-2026.zip
+2026-06-08 11:00:04,460 | INFO | Size: 1.01 MB
+2026-06-08 11:00:04,460 | INFO | SHA256: 1ab5bec906fd0ff2af2708334856f5fc96397a38cef859d4d12986d09cddbdfc
+2026-06-09 11:00:02,676 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-09 11:00:03,158 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-09 11:00:03,991 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-09 11:00:03,994 | INFO | Downloading get_your_items
+2026-06-09 11:00:03,994 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-09 11:00:04,419 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06092026.zip
+2026-06-09 11:00:04,419 | INFO | Size: 0.22 MB
+2026-06-09 11:00:04,419 | INFO | SHA256: cdce0d033539c309e4f3da610e126786f1f019315a48e277a29b3e2546ef9838
+2026-06-09 11:00:04,420 | INFO | Downloading get_common_file
+2026-06-09 11:00:04,420 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-09 11:00:06,072 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-09-2026.zip
+2026-06-09 11:00:06,072 | INFO | Size: 1.02 MB
+2026-06-09 11:00:06,072 | INFO | SHA256: 7343d7717c7a24dbdce715a2e5ca84b8df407790cf8acdba90b1666054d0e450
+2026-06-10 11:23:30,482 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-10 11:23:30,485 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-10 11:23:30,768 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-10 11:23:30,770 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-10 11:23:32,085 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-10 11:23:32,085 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-10 11:23:32,094 | INFO | Downloading get_your_items_raw_data
+2026-06-10 11:23:32,094 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-10 11:23:32,094 | INFO | Downloading get_your_items
+2026-06-10 11:23:32,095 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-10 11:23:33,347 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-10 11:23:33,347 | INFO | Size: 0.22 MB
+2026-06-10 11:23:33,348 | INFO | SHA256: 93340f6da2fe60f5e983afe91ce5496c649e25567ad10e6b3283ef15da692da2
+2026-06-10 11:23:33,350 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-10 11:23:33,350 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-10 11:23:33,353 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06102026.zip
+2026-06-10 11:23:33,353 | INFO | Size: 0.22 MB
+2026-06-10 11:23:33,353 | INFO | SHA256: 93340f6da2fe60f5e983afe91ce5496c649e25567ad10e6b3283ef15da692da2
+2026-06-10 11:23:33,354 | INFO | Downloading get_common_file
+2026-06-10 11:23:33,354 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-10 11:23:33,383 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-10 11:23:33,384 | INFO | Downloading get_common_file_raw_data
+2026-06-10 11:23:33,384 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-10 11:23:34,099 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-10-2026.zip
+2026-06-10 11:23:34,099 | INFO | Size: 1.02 MB
+2026-06-10 11:23:34,099 | INFO | SHA256: c2546f4df9d8bfc79ff5609ffa55778fba2030213082b61e6cc883f05253c134
+2026-06-10 11:23:35,651 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-10 11:23:35,651 | INFO | Size: 1.02 MB
+2026-06-10 11:23:35,651 | INFO | SHA256: c2546f4df9d8bfc79ff5609ffa55778fba2030213082b61e6cc883f05253c134
+2026-06-10 11:23:35,651 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-10 11:23:35,652 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-10 11:23:35,677 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-11 11:00:07,794 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-11 11:00:08,277 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-11 11:00:09,240 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-11 11:00:09,241 | INFO | Downloading get_your_items
+2026-06-11 11:00:09,241 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-11 11:00:09,899 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06112026.zip
+2026-06-11 11:00:09,899 | INFO | Size: 0.22 MB
+2026-06-11 11:00:09,900 | INFO | SHA256: 53c76aae80208162e00d5bfe9ae8ea48a7f18c96f2cbc4ca040521f3a40c2f7a
+2026-06-11 11:00:09,901 | INFO | Downloading get_common_file
+2026-06-11 11:00:09,901 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-11 11:00:10,578 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-11-2026.zip
+2026-06-11 11:00:10,578 | INFO | Size: 1.02 MB
+2026-06-11 11:00:10,578 | INFO | SHA256: 56ad89f99ce0b2e37daf63ecc6851bfe6da1906b836f9d930509ded658ded262
+2026-06-12 14:07:45,882 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-12 14:07:46,385 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-12 14:07:47,221 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-12 14:07:47,224 | INFO | Downloading get_your_items
+2026-06-12 14:07:47,224 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-12 14:07:47,736 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06122026.zip
+2026-06-12 14:07:47,736 | INFO | Size: 0.22 MB
+2026-06-12 14:07:47,736 | INFO | SHA256: b870934f8231b00fc0eb853cb9dc462999e147591450b29c40fafd396810d0c6
+2026-06-12 14:07:47,738 | INFO | Downloading get_common_file
+2026-06-12 14:07:47,738 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-12 14:07:48,660 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-12-2026.zip
+2026-06-12 14:07:48,660 | INFO | Size: 1.02 MB
+2026-06-12 14:07:48,660 | INFO | SHA256: 0a9ee6ecfee2f5d2d4040c483fcdb55b5d4286ec0eecea20b4b955e113c4c574
+2026-06-15 11:00:02,589 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-15 11:00:02,965 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-15 11:00:03,828 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-15 11:00:03,829 | INFO | Downloading get_your_items
+2026-06-15 11:00:03,829 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-15 11:00:04,240 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06152026.zip
+2026-06-15 11:00:04,240 | INFO | Size: 0.23 MB
+2026-06-15 11:00:04,244 | INFO | SHA256: ef223743b41303183422657b307274a623f4d80f1b60b1998304d77fd5d5d20a
+2026-06-15 11:00:04,245 | INFO | Downloading get_common_file
+2026-06-15 11:00:04,245 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-15 11:00:05,033 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-15-2026.zip
+2026-06-15 11:00:05,033 | INFO | Size: 1.03 MB
+2026-06-15 11:00:05,033 | INFO | SHA256: 13dee612031703e1a2d6fc3527e8a5e896e12c6a9c53fb0396a44452e37db622
+2026-06-16 11:00:02,959 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-16 11:00:03,360 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-16 11:00:04,373 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-16 11:00:04,383 | INFO | Downloading get_your_items
+2026-06-16 11:00:04,384 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-16 11:00:04,859 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06162026.zip
+2026-06-16 11:00:04,859 | INFO | Size: 0.23 MB
+2026-06-16 11:00:04,859 | INFO | SHA256: 2d81c0c8ea235140b4110ab08cc9e8df68b0b3b3f385a2a57b5d9ce911f04904
+2026-06-16 11:00:04,860 | INFO | Downloading get_common_file
+2026-06-16 11:00:04,860 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-16 11:00:05,581 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-16-2026.zip
+2026-06-16 11:00:05,581 | INFO | Size: 1.03 MB
+2026-06-16 11:00:05,581 | INFO | SHA256: 9fc2f3c941aa6286359dd8304604cc95c33f5b4f6f0350ff924ebfbad981d285
+2026-06-17 11:30:18,846 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-17 11:30:19,537 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-17 11:30:20,484 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-17 11:30:21,064 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-17 11:30:21,066 | INFO | Downloading get_your_items_raw_data
+2026-06-17 11:30:21,066 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-17 11:30:21,561 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-17 11:30:21,563 | INFO | Downloading get_your_items
+2026-06-17 11:30:21,563 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-17 11:30:21,611 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-17 11:30:21,611 | INFO | Size: 0.23 MB
+2026-06-17 11:30:21,611 | INFO | SHA256: b22ecb07dc4fdfdb37b59740a081ff18dad3a88f782025f00ecfc87bee5d6880
+2026-06-17 11:30:21,612 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-17 11:30:21,612 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-17 11:30:21,643 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-17 11:30:21,644 | INFO | Downloading get_common_file_raw_data
+2026-06-17 11:30:21,645 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-17 11:30:22,173 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06172026.zip
+2026-06-17 11:30:22,173 | INFO | Size: 0.23 MB
+2026-06-17 11:30:22,173 | INFO | SHA256: b22ecb07dc4fdfdb37b59740a081ff18dad3a88f782025f00ecfc87bee5d6880
+2026-06-17 11:30:22,174 | INFO | Downloading get_common_file
+2026-06-17 11:30:22,174 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-17 11:30:23,072 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-17-2026.zip
+2026-06-17 11:30:23,072 | INFO | Size: 1.03 MB
+2026-06-17 11:30:23,072 | INFO | SHA256: e3916c4d703dc869118ec03c3993212fe9d313075b8467349e088a70ba015908
+2026-06-17 11:30:23,299 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-17 11:30:23,300 | INFO | Size: 1.03 MB
+2026-06-17 11:30:23,300 | INFO | SHA256: e3916c4d703dc869118ec03c3993212fe9d313075b8467349e088a70ba015908
+2026-06-17 11:30:23,300 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-17 11:30:23,300 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-17 11:30:23,320 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-18 11:00:03,454 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-18 11:00:03,904 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-18 11:00:04,737 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-18 11:00:04,748 | INFO | Downloading get_your_items
+2026-06-18 11:00:04,748 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-18 11:00:05,312 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06182026.zip
+2026-06-18 11:00:05,312 | INFO | Size: 0.23 MB
+2026-06-18 11:00:05,321 | INFO | SHA256: 53ccdb08afbad12b9e2e508a799dea1147f7a7ead6df8c01c6b8379013e52aac
+2026-06-18 11:00:05,322 | INFO | Downloading get_common_file
+2026-06-18 11:00:05,322 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-18 11:00:06,167 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-18-2026.zip
+2026-06-18 11:00:06,167 | INFO | Size: 1.03 MB
+2026-06-18 11:00:06,167 | INFO | SHA256: b30498f270872b5301a9ce6642284a9defcac9e5bd9d2508073ecfdbcaa9f59a
+2026-06-19 11:43:05,568 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-19 11:43:05,887 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-19 11:43:07,031 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-19 11:43:07,032 | INFO | Downloading get_your_items
+2026-06-19 11:43:07,033 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-19 11:43:08,675 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06192026.zip
+2026-06-19 11:43:08,675 | INFO | Size: 0.23 MB
+2026-06-19 11:43:08,675 | INFO | SHA256: 07bc3cea5b24a9df0f2cdf6b456534398dcb0a5724f44f66ba2d46935cbf436e
+2026-06-19 11:43:08,676 | INFO | Downloading get_common_file
+2026-06-19 11:43:08,676 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-19 11:43:09,638 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-19-2026.zip
+2026-06-19 11:43:09,638 | INFO | Size: 1.03 MB
+2026-06-19 11:43:09,638 | INFO | SHA256: a763937bed10acefa10a19f9b65aa5e10041186ca520ce528e5ed3ed7350d70a
+2026-06-22 11:00:01,986 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-22 11:00:02,266 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-22 11:00:03,164 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-22 11:00:03,166 | INFO | Downloading get_your_items
+2026-06-22 11:00:03,166 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-22 11:00:03,681 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06222026.zip
+2026-06-22 11:00:03,681 | INFO | Size: 0.23 MB
+2026-06-22 11:00:03,681 | INFO | SHA256: a230227c7d89ea45f733fd005641bf7ae93f542c60149c41e7d8cf0410073ed2
+2026-06-22 11:00:03,681 | INFO | Downloading get_common_file
+2026-06-22 11:00:03,681 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-22 11:00:05,039 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-22-2026.zip
+2026-06-22 11:00:05,039 | INFO | Size: 1.04 MB
+2026-06-22 11:00:05,039 | INFO | SHA256: 0c44aba5d3760c85517a5d797d61a15d0fb78abf4d1f241f4de76a1942d418d2
+2026-06-23 11:00:09,522 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-23 11:00:09,866 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-23 11:00:10,786 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-23 11:00:10,789 | INFO | Downloading get_your_items
+2026-06-23 11:00:10,789 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-23 11:00:11,254 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06232026.zip
+2026-06-23 11:00:11,255 | INFO | Size: 0.23 MB
+2026-06-23 11:00:11,255 | INFO | SHA256: 8bbc07a2f1fda260ba131b7976e61ce9b5fc1b43a134a47368cf0cbdc5f1183a
+2026-06-23 11:00:11,258 | INFO | Downloading get_common_file
+2026-06-23 11:00:11,258 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-23 11:00:12,003 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-23-2026.zip
+2026-06-23 11:00:12,004 | INFO | Size: 1.04 MB
+2026-06-23 11:00:12,004 | INFO | SHA256: 5e89fd55601037769880d7d90c979444dc043dc987a3c0d7d7de570f19167999
+2026-06-24 11:00:02,381 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-24 11:00:02,701 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-24 11:00:03,566 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-24 11:00:03,569 | INFO | Downloading get_your_items
+2026-06-24 11:00:03,569 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-24 11:00:04,268 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06242026.zip
+2026-06-24 11:00:04,268 | INFO | Size: 0.23 MB
+2026-06-24 11:00:04,269 | INFO | SHA256: 9c88bc34c6cac1d6550dda4e08afc9e87dcef743ae48972850a2264e6b069722
+2026-06-24 11:00:04,269 | INFO | Downloading get_common_file
+2026-06-24 11:00:04,270 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-24 11:00:05,081 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-24-2026.zip
+2026-06-24 11:00:05,081 | INFO | Size: 1.04 MB
+2026-06-24 11:00:05,081 | INFO | SHA256: f50d4fed08fa48cdffabb684261d5574e644511e282dc56cd8fa80634fbd5f10
+2026-06-24 11:01:02,561 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-24 11:01:02,860 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-24 11:01:03,746 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-24 11:01:03,747 | INFO | Downloading get_your_items_raw_data
+2026-06-24 11:01:03,747 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-24 11:01:04,091 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-24 11:01:04,091 | INFO | Size: 0.23 MB
+2026-06-24 11:01:04,091 | INFO | SHA256: 9c88bc34c6cac1d6550dda4e08afc9e87dcef743ae48972850a2264e6b069722
+2026-06-24 11:01:04,092 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-24 11:01:04,092 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-24 11:01:04,111 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-06-24 11:01:04,112 | INFO | Downloading get_common_file_raw_data
+2026-06-24 11:01:04,112 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-24 11:01:04,676 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-24 11:01:04,676 | INFO | Size: 1.04 MB
+2026-06-24 11:01:04,676 | INFO | SHA256: f50d4fed08fa48cdffabb684261d5574e644511e282dc56cd8fa80634fbd5f10
+2026-06-24 11:01:04,676 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-24 11:01:04,677 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-06-24 11:01:04,694 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-06-25 11:00:02,559 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-25 11:00:02,927 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-25 11:00:03,805 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-25 11:00:03,807 | INFO | Downloading get_your_items
+2026-06-25 11:00:03,807 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-25 11:00:04,318 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06252026.zip
+2026-06-25 11:00:04,318 | INFO | Size: 0.23 MB
+2026-06-25 11:00:04,318 | INFO | SHA256: 07e3fb473fb01578e95bcd5e8411f0af2c882ea5fdd2e6007720f6d9e8135c41
+2026-06-25 11:00:04,319 | INFO | Downloading get_common_file
+2026-06-25 11:00:04,319 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-25 11:00:05,318 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-25-2026.zip
+2026-06-25 11:00:05,318 | INFO | Size: 1.04 MB
+2026-06-25 11:00:05,318 | INFO | SHA256: 00035ac4da2fb1dbc190e0cf746b500edb8e499a9b7358149f3292733488280a
+2026-06-26 12:24:27,527 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-26 12:24:28,011 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-26 12:24:28,814 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-26 12:24:28,823 | INFO | Downloading get_your_items
+2026-06-26 12:24:28,823 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-26 12:24:29,223 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06262026.zip
+2026-06-26 12:24:29,223 | INFO | Size: 0.23 MB
+2026-06-26 12:24:29,224 | INFO | SHA256: 882637228ba256c1506228e76ff6503a94dbadab9762455ec00c69a065d5757b
+2026-06-26 12:24:29,225 | INFO | Downloading get_common_file
+2026-06-26 12:24:29,225 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-26 12:24:29,997 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-26-2026.zip
+2026-06-26 12:24:29,997 | INFO | Size: 1.05 MB
+2026-06-26 12:24:29,997 | INFO | SHA256: db8f675feb82ce9d8fc5120efa292c81833e1e045f41bdc83645a21774139926
+2026-06-29 11:00:02,547 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-29 11:00:02,929 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-29 11:00:03,770 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-29 11:00:03,772 | INFO | Downloading get_your_items
+2026-06-29 11:00:03,772 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-29 11:00:04,209 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06292026.zip
+2026-06-29 11:00:04,210 | INFO | Size: 0.23 MB
+2026-06-29 11:00:04,219 | INFO | SHA256: a1813da4374a8dc3f0e0d076bbb4fef19a74354f7217c97a1f43a25059e0fbf6
+2026-06-29 11:00:04,220 | INFO | Downloading get_common_file
+2026-06-29 11:00:04,220 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-29 11:00:05,009 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-29-2026.zip
+2026-06-29 11:00:05,009 | INFO | Size: 1.05 MB
+2026-06-29 11:00:05,010 | INFO | SHA256: 92d9e60052dba2e782ea95538e6d3d101b12dac7f7a197a2be33a70862aadd9f
+2026-06-30 11:00:02,583 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-06-30 11:00:02,906 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-06-30 11:00:03,899 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-06-30 11:00:03,901 | INFO | Downloading get_your_items
+2026-06-30 11:00:03,901 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-06-30 11:00:04,434 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL06302026.zip
+2026-06-30 11:00:04,435 | INFO | Size: 0.23 MB
+2026-06-30 11:00:04,436 | INFO | SHA256: 0473b6e8358e5f919cbd6f4f036e8b08ad1cdd590739ffc48cf3a752555d23e9
+2026-06-30 11:00:04,437 | INFO | Downloading get_common_file
+2026-06-30 11:00:04,437 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-06-30 11:00:05,140 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-06-30-2026.zip
+2026-06-30 11:00:05,140 | INFO | Size: 1.05 MB
+2026-06-30 11:00:05,141 | INFO | SHA256: 16b6fab9c0e2539c6adb4f058d6803870ac3c36d25dbcd484c657f99e7fe8fc3
+2026-07-02 11:08:11,769 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-02 11:08:12,260 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-02 11:08:13,577 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-02 11:08:13,578 | INFO | Downloading get_your_items
+2026-07-02 11:08:13,579 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-02 11:08:14,442 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07022026.zip
+2026-07-02 11:08:14,442 | INFO | Size: 0.22 MB
+2026-07-02 11:08:14,442 | INFO | SHA256: e72e3b4cd7eb8c58a403426bad2b8f7c6207a2af0b59dadfe427b059e0ff26a4
+2026-07-02 11:08:14,443 | INFO | Downloading get_common_file
+2026-07-02 11:08:14,443 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-02 11:08:16,224 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-02-2026.zip
+2026-07-02 11:08:16,224 | INFO | Size: 1.00 MB
+2026-07-02 11:08:16,225 | INFO | SHA256: 608546b4f62d8a2aa578b01f3dfa036095095ae471a33763c3ba5881b7e3fc78
+2026-07-03 11:00:02,526 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-03 11:00:02,876 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-03 11:00:03,691 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-03 11:00:03,692 | INFO | Downloading get_your_items
+2026-07-03 11:00:03,692 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-03 11:00:04,090 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07032026.zip
+2026-07-03 11:00:04,090 | INFO | Size: 0.22 MB
+2026-07-03 11:00:04,090 | INFO | SHA256: c98365268a10581fd3b3c6e3f57796f01c8e0f980ea26ff798cd74effbcdd62a
+2026-07-03 11:00:04,091 | INFO | Downloading get_common_file
+2026-07-03 11:00:04,091 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-03 11:00:04,842 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-03-2026.zip
+2026-07-03 11:00:04,842 | INFO | Size: 1.00 MB
+2026-07-03 11:00:04,842 | INFO | SHA256: a477c13b292d1ac41a3673d323f209ee9749e8aa624cbd439d16de4d7517326d
+2026-07-06 11:05:05,557 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-06 11:05:05,947 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-06 11:05:07,253 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-06 11:05:07,254 | INFO | Downloading get_your_items
+2026-07-06 11:05:07,254 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-06 11:05:08,741 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07062026.zip
+2026-07-06 11:05:08,742 | INFO | Size: 0.22 MB
+2026-07-06 11:05:08,742 | INFO | SHA256: 8dd84e36b0ce53f712ca92ba0a8a073cf01565f3fdbaaa44e9d8d4dfd010b2e1
+2026-07-06 11:05:08,743 | INFO | Downloading get_common_file
+2026-07-06 11:05:08,743 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-06 11:05:09,746 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-06-2026.zip
+2026-07-06 11:05:09,746 | INFO | Size: 1.00 MB
+2026-07-06 11:05:09,746 | INFO | SHA256: 53fdc4259cbf30ec4659dd3211c9e805beb95c17eedf03e1910a082b1a033eae
+2026-07-08 11:00:02,539 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-08 11:00:02,943 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-08 11:00:03,888 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-08 11:00:03,891 | INFO | Downloading get_your_items
+2026-07-08 11:00:03,891 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-08 11:00:04,438 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07082026.zip
+2026-07-08 11:00:04,439 | INFO | Size: 0.22 MB
+2026-07-08 11:00:04,447 | INFO | SHA256: da552b93bc7e85c110c4c6c2ac45e793fdbc9c720684dff2ad5d494fadc5a957
+2026-07-08 11:00:04,447 | INFO | Downloading get_common_file
+2026-07-08 11:00:04,447 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-08 11:00:05,566 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-08-2026.zip
+2026-07-08 11:00:05,566 | INFO | Size: 1.01 MB
+2026-07-08 11:00:05,566 | INFO | SHA256: 94e3e973a640859f5352a962c941eceaa218628468d4410ffedcad27c759450c
+2026-07-08 11:01:02,410 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-08 11:01:02,720 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-08 11:01:03,602 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-08 11:01:03,604 | INFO | Downloading get_your_items_raw_data
+2026-07-08 11:01:03,604 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-08 11:01:03,988 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-08 11:01:03,988 | INFO | Size: 0.22 MB
+2026-07-08 11:01:03,988 | INFO | SHA256: da552b93bc7e85c110c4c6c2ac45e793fdbc9c720684dff2ad5d494fadc5a957
+2026-07-08 11:01:03,989 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-08 11:01:03,989 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-07-08 11:01:04,019 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-08 11:01:04,020 | INFO | Downloading get_common_file_raw_data
+2026-07-08 11:01:04,020 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-08 11:01:04,625 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-08 11:01:04,625 | INFO | Size: 1.01 MB
+2026-07-08 11:01:04,625 | INFO | SHA256: 94e3e973a640859f5352a962c941eceaa218628468d4410ffedcad27c759450c
+2026-07-08 11:01:04,626 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-08 11:01:04,626 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-07-08 11:01:04,644 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-09 14:19:01,113 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-09 14:19:01,697 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-09 14:19:03,099 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-09 14:19:03,101 | INFO | Downloading get_your_items
+2026-07-09 14:19:03,102 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-09 14:19:03,730 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07092026.zip
+2026-07-09 14:19:03,731 | INFO | Size: 0.22 MB
+2026-07-09 14:19:03,731 | INFO | SHA256: 4e4cdb1a5a73e5c7287379f293803c135b80f241d6967c373b4b774e5b501551
+2026-07-09 14:19:03,732 | INFO | Downloading get_common_file
+2026-07-09 14:19:03,732 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-09 14:19:04,714 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-09-2026.zip
+2026-07-09 14:19:04,714 | INFO | Size: 1.01 MB
+2026-07-09 14:19:04,714 | INFO | SHA256: 01a7096060f3322ef7691f56a3a25ca4aa0890f61da0e5939ed7cb65594cc526
+2026-07-10 11:00:01,599 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-10 11:00:02,049 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-10 11:00:02,875 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-10 11:00:02,876 | INFO | Downloading get_your_items
+2026-07-10 11:00:02,876 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-10 11:00:03,578 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07102026.zip
+2026-07-10 11:00:03,578 | INFO | Size: 0.22 MB
+2026-07-10 11:00:03,578 | INFO | SHA256: 2e603b1412b93591a7bba931acde71fc4d6c27fed53ed24c1383e5bb1fc99ab1
+2026-07-10 11:00:03,579 | INFO | Downloading get_common_file
+2026-07-10 11:00:03,579 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-10 11:00:06,003 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-10-2026.zip
+2026-07-10 11:00:06,003 | INFO | Size: 1.01 MB
+2026-07-10 11:00:06,003 | INFO | SHA256: 5a51da5ac4b4843e3b39922adf6fd5242eb43c7de0f4cf3015e1e7c7413569f4
+2026-07-13 13:37:23,447 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-13 13:37:23,803 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-13 13:37:25,344 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-13 13:37:25,346 | INFO | Downloading get_your_items
+2026-07-13 13:37:25,346 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-13 13:37:26,363 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07132026.zip
+2026-07-13 13:37:26,364 | INFO | Size: 0.22 MB
+2026-07-13 13:37:26,364 | INFO | SHA256: dea465994da36c9158bfbae214b92d5ccafd2b9a3534d7b238dff30a627443fa
+2026-07-13 13:37:26,364 | INFO | Downloading get_common_file
+2026-07-13 13:37:26,364 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-13 13:37:28,358 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-13-2026.zip
+2026-07-13 13:37:28,358 | INFO | Size: 1.02 MB
+2026-07-13 13:37:28,358 | INFO | SHA256: e29d39475bdaf87a5bfe33158739204208eaa27c5a804d2929bc89f120d8e5e6
+2026-07-14 11:04:17,164 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-14 11:04:17,692 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-14 11:04:25,901 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-14 11:04:25,903 | INFO | Downloading get_your_items
+2026-07-14 11:04:25,903 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-14 11:04:27,237 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07142026.zip
+2026-07-14 11:04:27,237 | INFO | Size: 0.23 MB
+2026-07-14 11:04:27,239 | INFO | SHA256: a854ed39c6d24d841728d8757fc149497c4a7869fdb58766c3409b9ff208b616
+2026-07-14 11:04:27,241 | INFO | Downloading get_common_file
+2026-07-14 11:04:27,241 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-14 11:04:30,173 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-14-2026.zip
+2026-07-14 11:04:30,173 | INFO | Size: 1.02 MB
+2026-07-14 11:04:30,174 | INFO | SHA256: ff1dd8c2bf7dba9321ab5713101b79f08b433e8c795e60eeb4674dfdcc7821e6
+2026-07-15 11:00:03,853 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-15 11:00:04,164 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-15 11:00:05,083 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-15 11:00:05,084 | INFO | Downloading get_your_items
+2026-07-15 11:00:05,084 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-15 11:00:05,579 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07152026.zip
+2026-07-15 11:00:05,579 | INFO | Size: 0.23 MB
+2026-07-15 11:00:05,579 | INFO | SHA256: f47a97706752e606c14c56abbbc97bf70f539c62866e12ed441247442b6d77bc
+2026-07-15 11:00:05,580 | INFO | Downloading get_common_file
+2026-07-15 11:00:05,580 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-15 11:00:06,418 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-15-2026.zip
+2026-07-15 11:00:06,418 | INFO | Size: 1.02 MB
+2026-07-15 11:00:06,418 | INFO | SHA256: b5e524a312826912ce42a851d9233b5e754542484ac9bc8f214f8212ac09b56d
+2026-07-15 11:01:04,517 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-15 11:01:04,847 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-15 11:01:05,691 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-15 11:01:05,693 | INFO | Downloading get_your_items_raw_data
+2026-07-15 11:01:05,693 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-15 11:01:06,059 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-15 11:01:06,059 | INFO | Size: 0.23 MB
+2026-07-15 11:01:06,059 | INFO | SHA256: f47a97706752e606c14c56abbbc97bf70f539c62866e12ed441247442b6d77bc
+2026-07-15 11:01:06,061 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-15 11:01:06,061 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-07-15 11:01:06,086 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\eLIISDownloads.zip
+2026-07-15 11:01:06,087 | INFO | Downloading get_common_file_raw_data
+2026-07-15 11:01:06,087 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-15 11:01:06,891 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-15 11:01:06,892 | INFO | Size: 1.02 MB
+2026-07-15 11:01:06,892 | INFO | SHA256: b5e524a312826912ce42a851d9233b5e754542484ac9bc8f214f8212ac09b56d
+2026-07-15 11:01:06,893 | INFO | Extracting ZIP: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-15 11:01:06,894 | INFO | Extracting to: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data
+2026-07-15 11:01:06,939 | INFO | Finished extracting: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_Raw_Data\CSTVEND (1).zip
+2026-07-16 12:12:29,341 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-16 12:12:29,912 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-16 12:12:31,699 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-16 12:12:31,700 | INFO | Downloading get_your_items
+2026-07-16 12:12:31,700 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-16 12:12:32,371 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07162026.zip
+2026-07-16 12:12:32,371 | INFO | Size: 0.23 MB
+2026-07-16 12:12:32,371 | INFO | SHA256: 026d598ef04ad603675b2b19755c375189d35da24a2d553acdf7b3865681810e
+2026-07-16 12:12:32,372 | INFO | Downloading get_common_file
+2026-07-16 12:12:32,372 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-16 12:12:34,263 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-16-2026.zip
+2026-07-16 12:12:34,263 | INFO | Size: 1.02 MB
+2026-07-16 12:12:34,263 | INFO | SHA256: 0934fd058b33147372b66144e0029f5d980a8dc8c7099e2d6a8271d79ff1d4f5
+2026-07-17 11:13:55,087 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-17 11:13:55,509 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-17 11:13:56,884 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-17 11:13:56,914 | INFO | Downloading get_your_items
+2026-07-17 11:13:56,915 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-17 11:13:57,686 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07172026.zip
+2026-07-17 11:13:57,687 | INFO | Size: 0.23 MB
+2026-07-17 11:13:57,687 | INFO | SHA256: e874aa028dc5a836bee6891f618c155816a4f5b8fd0cd0c2214612a7d46d52f6
+2026-07-17 11:13:57,688 | INFO | Downloading get_common_file
+2026-07-17 11:13:57,688 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-17 11:14:00,066 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-17-2026.zip
+2026-07-17 11:14:00,067 | INFO | Size: 1.02 MB
+2026-07-17 11:14:00,067 | INFO | SHA256: 8365964c286e4428711c34e218a46bb3dccdd096dc3d89ee661d7c3cb8dee80f
+2026-07-20 11:00:02,742 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-20 11:00:03,150 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-20 11:00:03,975 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-20 11:00:03,976 | INFO | Downloading get_your_items
+2026-07-20 11:00:03,976 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-20 11:00:04,554 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07202026.zip
+2026-07-20 11:00:04,554 | INFO | Size: 0.23 MB
+2026-07-20 11:00:04,555 | INFO | SHA256: 45fbf89e307225c76c60a4508b68d93d6b099c5300a20f0398787e9731a3ad72
+2026-07-20 11:00:04,556 | INFO | Downloading get_common_file
+2026-07-20 11:00:04,556 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-20 11:00:05,346 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-20-2026.zip
+2026-07-20 11:00:05,346 | INFO | Size: 1.03 MB
+2026-07-20 11:00:05,346 | INFO | SHA256: b81b225c1a03f8309fd622e0632e622222e5547a8372c2df2d5a5bc41b4f1856
+2026-07-21 11:50:51,561 | INFO | Opening login page: https://eliis.mbll.ca/liis/login/loginProxy.jsp
+2026-07-21 11:50:52,104 | INFO | Submitting login form to: https://eliis.mbll.ca/liis/login/j_security_check
+2026-07-21 11:50:52,904 | INFO | Login request completed. Current URL: https://eliis.mbll.ca/liis/Welcome/Welcome.do
+2026-07-21 11:50:52,905 | INFO | Downloading get_your_items
+2026-07-21 11:50:52,905 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do
+2026-07-21 11:50:53,294 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL07212026.zip
+2026-07-21 11:50:53,294 | INFO | Size: 0.23 MB
+2026-07-21 11:50:53,296 | INFO | SHA256: b1d87db1553c3a5442b3d0dae445f665e32905aee93c619c05f9a09e2bb57e06
+2026-07-21 11:50:53,298 | INFO | Downloading get_common_file
+2026-07-21 11:50:53,299 | INFO | URL: https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do
+2026-07-21 11:50:54,631 | INFO | Saved: C:\Users\DLI\Beam Suntory Inc\Canadian S&OP Collaboration Hub - Documents\Daily Reports\Daily Inventory - All Boards\2. MB\MBLL INV Report Inventory Reporting Workflow\Alteryx_Inputs_MBLL_CommonFile\CSTVEND-07-21-2026.zip
+2026-07-21 11:50:54,631 | INFO | Size: 1.03 MB
+2026-07-21 11:50:54,631 | INFO | SHA256: 3dbdb9b81de13885d648129de2de05c68524a692b82676f3520e6135c0f99f61

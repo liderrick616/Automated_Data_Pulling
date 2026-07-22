@@ -1,0 +1,34 @@
+{
+  "login_url": "https://eliis.mbll.ca/liis/login/loginProxy.jsp",
+
+  "username_env": "ELIIS_USER",
+  "password_env": "ELIIS_PASSWORD",
+
+  "username_field": "",
+  "password_field": "",
+
+  "download_dir": "downloads",
+
+  "downloads": [
+    {
+      "name": "get_your_items_raw_data",
+      "url": "https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetYourItems.do",
+      "download_dir": "C:/Users/DLI/Beam Suntory Inc/Canadian S&OP Collaboration Hub - Documents/Daily Reports/Daily Inventory - All Boards/2. MB/MBLL INV Report Inventory Reporting Workflow/Alteryx_Inputs_MBLL_Raw_Data",
+      "filename": "eLIISDownloads.zip",
+      "overwrite": true,
+      "extract_zip": true,
+      "extract_to": "C:/Users/DLI/Beam Suntory Inc/Canadian S&OP Collaboration Hub - Documents/Daily Reports/Daily Inventory - All Boards/2. MB/MBLL INV Report Inventory Reporting Workflow/Alteryx_Inputs_MBLL_Raw_Data",
+      "extract_overwrite": true
+    },
+    {
+      "name": "get_common_file_raw_data",
+      "url": "https://eliis.mbll.ca/liis/Downloads/FileDownloadsGetCommonFile.do",
+      "download_dir": "C:/Users/DLI/Beam Suntory Inc/Canadian S&OP Collaboration Hub - Documents/Daily Reports/Daily Inventory - All Boards/2. MB/MBLL INV Report Inventory Reporting Workflow/Alteryx_Inputs_MBLL_Raw_Data",
+      "filename": "CSTVEND (1).zip",
+      "overwrite": true,
+      "extract_zip": true,
+      "extract_to": "C:/Users/DLI/Beam Suntory Inc/Canadian S&OP Collaboration Hub - Documents/Daily Reports/Daily Inventory - All Boards/2. MB/MBLL INV Report Inventory Reporting Workflow/Alteryx_Inputs_MBLL_Raw_Data",
+      "extract_overwrite": true
+    }
+  ]
+}
